@@ -1,0 +1,9 @@
+.b{
+    width: 80px;
+    margin: 4px;
+    color:brown;
+    background: palegoldenrod;
+    float: left;
+    font-style:italic;
+     border-radius: 10px 10px 10px 10px; 
+}
