@@ -6,9 +6,9 @@ import { Component, OnInit, Input } from '@angular/core';
   styleUrls: ['./nav-item.component.css']
 })
 export class NavItemComponent implements OnInit {
-
+  txt : string ;
   
-@Input() nav_item;
+@Input() item;
 
   constructor() { }
 
